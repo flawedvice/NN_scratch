@@ -1,0 +1,8 @@
+flake8==6.0.0
+mccabe==0.7.0
+numpy==1.24.3
+pip==22.0.2
+pycodestyle==2.10.0
+pyflakes==3.0.1
+setuptools==59.6.0
+wheel==0.37.1
